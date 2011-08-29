@@ -213,5 +213,7 @@ else()
 
    endif()
 
+   add_subdirectory(session/askpass)
+
 endif()
 
